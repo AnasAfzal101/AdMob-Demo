@@ -1,3 +1,0 @@
-/home/alex/Projects/Business/Unity-Ad/AdMob-Demo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
-/home/alex/Projects/Business/Unity-Ad/AdMob-Demo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing/CMakeLists.txt
-/home/alex/Projects/Business/Unity-Ad/AdMob-Demo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

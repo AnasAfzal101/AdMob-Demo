@@ -1,4 +1,42 @@
-[Ll]ibrary/
+# ---- Unity-generated folders (rebuilt automatically, often huge) ----
+# The leading "/" means "only in the project root", so a folder called
+# Build or Logs inside Assets/ can never be hidden by accident.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# ---- IDE files (Unity regenerates these) ----
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.tmp
+
+# ---- Android / Gradle ----
+.gradle/
+*.apk
+*.aab
+
+# ---- Signing keys: NEVER commit these ----
+*.keystore
+*.jks
+
+# ---- Crash logs and OS junk ----
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+.DS_Store[Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
